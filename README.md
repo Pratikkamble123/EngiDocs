@@ -28,7 +28,7 @@ EngiDocs supports a wide range of engineering domains:
 ## 🖼️ Screenshots
 
 ### 🔸 Homepage (Light Mode)
-![Light Mode](https://your-image-hosting-link/light-mode.png)
+![Light Mode](https://Pratikkamble123.github.io/engidocs/imag/light.png)
 
 ### 🔸 Homepage (Dark Mode)
 ![Dark Mode](https://your-image-hosting-link/dark-mode.png)
