@@ -1,6 +1,6 @@
 # 🚀 EngiDocs — Your Engineering Companion for Exams & Placements
 
-![EngiDocs Banner](https://your-image-hosting-link/banner.png) <!-- Optional: Replace with hosted screenshot -->
+<img width="753" height="512" alt="Image" src="https://github.com/user-attachments/assets/64b3ee82-c9ad-45b8-997f-9df257af2753" /> <!-- Optional: Replace with hosted screenshot -->
 
 EngiDocs is a dynamic and student-focused platform that provides curated educational resources, structured roadmaps, mock interviews, and fun coding tutorials to help engineering students succeed in exams and placements.
 
@@ -28,13 +28,12 @@ EngiDocs supports a wide range of engineering domains:
 ## 🖼️ Screenshots
 
 ### 🔸 Homepage (Light Mode)
-![Light Mode](https://Pratikkamble123.github.io/engidocs/imag/light.png)
 <img width="1802" height="839" alt="Image" src="https://github.com/user-attachments/assets/387b2e31-d247-4365-bfcb-9ef8c4d3d484" />
 ### 🔸 Homepage (Dark Mode)
-![Dark Mode](https://your-image-hosting-link/dark-mode.png)
+<img width="1757" height="831" alt="Image" src="https://github.com/user-attachments/assets/e3a63d5e-a7c8-4fa8-a9bd-e4884f541847" />
 
 ### 🔸 Featured Sections
-![Features](https://your-image-hosting-link/featured.png)
+<img width="1813" height="850" alt="Image" src="https://github.com/user-attachments/assets/c86bc2df-e0a1-448b-b142-479a7a631de6" />
 
 > *Note: Screenshots demonstrate both UI themes and available categories for easy navigation.*
 
